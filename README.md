@@ -15,12 +15,9 @@ yarn install
 cd typescript-with-playcanvas-editor
 yarn playcanvas-cli init
 ```
-5 Create a folder to be Uploaded to PlayCanvas Editor
-```
+5 Create a `remotePath` folder to PlayCanvas Editor
 
-```
-
-5. Run gulp tasks.
+6. Run gulp tasks.
 ```
 yarn gulp --watch
 ```
